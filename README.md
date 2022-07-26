@@ -8,7 +8,7 @@
 - Instalar todos os requirements;  
 - Executar as migrações(migrations e migrate) para o banco de dados;
 
-As ferramentas utilizadas no projeto foram:
+<b>As ferramentas utilizadas no projeto foram:</b>
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
