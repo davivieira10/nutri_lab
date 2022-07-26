@@ -2,7 +2,7 @@
 
 <h2>Projeto desenvolvido na PYSTACK_WEEK_4.0. Uma aplicação para nutricionistas gerenciarem as refeições dos seus pacientes.</h2>
 
-Para fazer uso e iniciar o projeto é preciso: 
+<b>Para fazer uso e iniciar o projeto é preciso:</b> 
 - Fazer um clone do projeto; 
 - Criar um ambiente virtual no seu editor; 
 - Instalar todos os requirements;  
