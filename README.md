@@ -6,7 +6,7 @@ Para fazer uso e iniciar o projeto é preciso:
 - Fazer um clone do projeto; 
 - Criar um ambiente virtual no seu editor; 
 - Instalar todos os requirements;  
-- Executar as migrações(migrations e migrate) para o banco de dados.
+- Executar as migrações(migrations e migrate) para o banco de dados;
 
 As ferramentas utilizadas no projeto foram:
 - HTML
