@@ -1,6 +1,6 @@
 # <h1>nutri_lab</h1>
 
-<h2>Projeto desenvolvido na PYSTACK_WEEK_4.0. Uma aplicação para nutricionistas gerenciarem as refeições dos seus pacientes.</h2>
+<h2>Projeto desenvolvido no Evento da PYSTACK_WEEK_4.0. Uma aplicação para nutricionistas gerenciarem as refeições dos seus pacientes.</h2>
 
 <b>Para fazer uso e iniciar o projeto é preciso:</b> 
 - Fazer um clone do projeto; 
